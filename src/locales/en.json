@@ -1,0 +1,125 @@
+{
+    "nav": {
+        "home": "Home",
+        "rooms": "Rooms & suites",
+        "restaurant": "Restaurant & caf\u00e9",
+        "booking": "Book",
+        "contact": "Contact"
+    },
+    "common": {
+        "reserve": "Book",
+        "call": "Call reception",
+        "seeRooms": "See rooms",
+        "toValidate": "To validate",
+        "learnMore": "Discover",
+        "back": "Back",
+        "route": "Directions",
+        "photoTemp": "Temporary photo \u2014 to be replaced"
+    },
+    "hero": {
+        "eyebrow": "Guelmim \u00b7 Gateway to the Sahara",
+        "title": "A warm stop at the edge of the desert",
+        "subtitle": "Rooms, suites, restaurant and caf\u00e9 in Guelmim. Book directly with the hotel.",
+        "arrival": "Check-in",
+        "departure": "Check-out",
+        "guests": "Guests",
+        "search": "Request a stay"
+    },
+    "about": {
+        "title": "H\u00f4tel Adil Moussafir, Guelmim",
+        "p1": "Located on Mohammed VI Avenue in the Al Qods district, the hotel welcomes business travelers and visitors heading to the Sahara.",
+        "p2": "Provisional presentation text, to be validated by the property before publication.",
+        "factAddress": "Address",
+        "factPhone": "Reception",
+        "factGps": "GPS coordinates",
+        "factRooms": "Capacity (directories)",
+        "factRoomsVal": "44 rooms \u00b7 4 suites \u2014 to be confirmed"
+    },
+    "rooms": {
+        "title": "Rooms & suites",
+        "intro": "Provisional categories, to be replaced by the hotel's real categories. No rate or availability is shown without an official source.",
+        "all": "All",
+        "chambres": "Rooms",
+        "suites": "Suites",
+        "capacity": "Capacity",
+        "beds": "Bedding",
+        "surface": "Size",
+        "toConfirm": "To be confirmed",
+        "details": "View details",
+        "pricing": "Rates provided by the hotel"
+    },
+    "detail": {
+        "amenities": "Confirmed amenities",
+        "gallery": "Gallery",
+        "panel": "Book this category",
+        "panelText": "Rates and availability will come from the hotel's booking system.",
+        "unknown": "Category not found"
+    },
+    "resto": {
+        "title": "Restaurant & caf\u00e9",
+        "intro": "A restaurant is mentioned by directories. The caf\u00e9 and terrace are to be confirmed by the hotel.",
+        "restaurant": "Restaurant",
+        "cafe": "Caf\u00e9 & terrace",
+        "menu": "Menu",
+        "hours": "Opening hours",
+        "menuText": "Menu not provided \u2014 to be supplied by the hotel.",
+        "hoursText": "Hours not validated.",
+        "tableText": "Table reservation: by phone, service to be confirmed."
+    },
+    "booking": {
+        "title": "Stay request",
+        "intro": "This form prepares a request. A booking is only confirmed by the hotel or its official system.",
+        "name": "Full name",
+        "phone": "Phone",
+        "email": "Email (optional)",
+        "arrival": "Check-in",
+        "departure": "Check-out",
+        "guests": "Guests",
+        "category": "Category",
+        "notes": "Notes",
+        "submit": "Prepare my request",
+        "statusTitle": "Booking module",
+        "statusText": "PMS provider not configured. No availability is simulated.",
+        "successTitle": "Request prepared \u2014 not confirmed",
+        "successText": "No automatic sending is active. Please call reception to finalize your request.",
+        "errName": "Please enter your name.",
+        "errPhone": "Invalid phone number.",
+        "errDates": "Check-out must be after check-in.",
+        "errGuests": "Invalid guest count."
+    },
+    "contact": {
+        "title": "Contact & directions",
+        "intro": "Reach reception by phone or visit us in Guelmim.",
+        "address": "Address",
+        "phone": "Phone",
+        "map": "Map",
+        "form": "Write to the hotel",
+        "message": "Message",
+        "send": "Send",
+        "noBackend": "Sending unavailable: no email service is configured. Please call reception.",
+        "errMessage": "Message is too short.",
+        "emailMissing": "Official email address: to be provided by the hotel."
+    },
+    "services": {
+        "title": "Services",
+        "note": "Services from public directories, to be confirmed.",
+        "wifi": "Wi-Fi",
+        "ac": "Air conditioning",
+        "parking": "Parking",
+        "restaurant": "Restaurant"
+    },
+    "location": {
+        "title": "In the heart of Guelmim",
+        "text": "Mohammed VI Avenue, Al Qods district. An ideal starting point toward southern Morocco."
+    },
+    "footer": {
+        "rights": "All rights reserved",
+        "legal": "Legal notice",
+        "privacy": "Privacy",
+        "pending": "Data to validate"
+    },
+    "cta": {
+        "title": "A question, a date in mind?",
+        "text": "Reception answers by phone."
+    }
+}

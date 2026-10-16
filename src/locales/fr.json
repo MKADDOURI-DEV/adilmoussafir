@@ -1,0 +1,125 @@
+{
+    "nav": {
+        "home": "Accueil",
+        "rooms": "Chambres & suites",
+        "restaurant": "Restaurant & caf\u00e9",
+        "booking": "R\u00e9server",
+        "contact": "Contact"
+    },
+    "common": {
+        "reserve": "R\u00e9server",
+        "call": "Appeler la r\u00e9ception",
+        "seeRooms": "Voir les chambres",
+        "toValidate": "\u00c0 valider",
+        "learnMore": "D\u00e9couvrir",
+        "back": "Retour",
+        "route": "Itin\u00e9raire",
+        "photoTemp": "Photo temporaire \u2014 \u00e0 remplacer"
+    },
+    "hero": {
+        "eyebrow": "Guelmim \u00b7 Porte du Sahara",
+        "title": "Une \u00e9tape chaleureuse aux portes du d\u00e9sert",
+        "subtitle": "Chambres, suites, restaurant et caf\u00e9 \u00e0 Guelmim. R\u00e9servez directement aupr\u00e8s de l\u2019h\u00f4tel.",
+        "arrival": "Arriv\u00e9e",
+        "departure": "D\u00e9part",
+        "guests": "Voyageurs",
+        "search": "Demander un s\u00e9jour"
+    },
+    "about": {
+        "title": "H\u00f4tel Adil Moussafir, Guelmim",
+        "p1": "Situ\u00e9 avenue Mohammed VI, dans le quartier Al Qods, l\u2019h\u00f4tel accueille voyageurs d\u2019affaires et visiteurs en route vers le Sahara.",
+        "p2": "Texte de pr\u00e9sentation provisoire, \u00e0 valider par l\u2019\u00e9tablissement avant publication.",
+        "factAddress": "Adresse",
+        "factPhone": "R\u00e9ception",
+        "factGps": "Coordonn\u00e9es GPS",
+        "factRooms": "Capacit\u00e9 (annuaires)",
+        "factRoomsVal": "44 chambres \u00b7 4 suites \u2014 \u00e0 confirmer"
+    },
+    "rooms": {
+        "title": "Chambres & suites",
+        "intro": "Cat\u00e9gories provisoires, \u00e0 remplacer par les cat\u00e9gories r\u00e9elles de l\u2019h\u00f4tel. Aucun tarif ni disponibilit\u00e9 n\u2019est affich\u00e9 sans source officielle.",
+        "all": "Toutes",
+        "chambres": "Chambres",
+        "suites": "Suites",
+        "capacity": "Capacit\u00e9",
+        "beds": "Literie",
+        "surface": "Surface",
+        "toConfirm": "\u00c0 confirmer",
+        "details": "Voir la fiche",
+        "pricing": "Tarifs communiqu\u00e9s par l\u2019h\u00f4tel"
+    },
+    "detail": {
+        "amenities": "\u00c9quipements confirm\u00e9s",
+        "gallery": "Galerie",
+        "panel": "R\u00e9server cette cat\u00e9gorie",
+        "panelText": "Les tarifs et disponibilit\u00e9s proviendront du syst\u00e8me de r\u00e9servation de l\u2019h\u00f4tel.",
+        "unknown": "Cat\u00e9gorie introuvable"
+    },
+    "resto": {
+        "title": "Restaurant & caf\u00e9",
+        "intro": "Un restaurant est mentionn\u00e9 par les annuaires. Le caf\u00e9 et la terrasse sont \u00e0 confirmer par l\u2019h\u00f4tel.",
+        "restaurant": "Restaurant",
+        "cafe": "Caf\u00e9 & terrasse",
+        "menu": "Carte",
+        "hours": "Horaires",
+        "menuText": "Carte non fournie \u2014 \u00e0 transmettre par l\u2019h\u00f4tel.",
+        "hoursText": "Horaires non valid\u00e9s.",
+        "tableText": "R\u00e9servation de table : par t\u00e9l\u00e9phone, service \u00e0 confirmer."
+    },
+    "booking": {
+        "title": "Demande de s\u00e9jour",
+        "intro": "Ce formulaire pr\u00e9pare une demande. Une r\u00e9servation n\u2019est confirm\u00e9e que par l\u2019h\u00f4tel ou par son syst\u00e8me officiel.",
+        "name": "Nom complet",
+        "phone": "T\u00e9l\u00e9phone",
+        "email": "Email (facultatif)",
+        "arrival": "Arriv\u00e9e",
+        "departure": "D\u00e9part",
+        "guests": "Voyageurs",
+        "category": "Cat\u00e9gorie",
+        "notes": "Pr\u00e9cisions",
+        "submit": "Pr\u00e9parer ma demande",
+        "statusTitle": "Module de r\u00e9servation",
+        "statusText": "Fournisseur PMS non configur\u00e9. Aucune disponibilit\u00e9 n\u2019est simul\u00e9e.",
+        "successTitle": "Demande pr\u00e9par\u00e9e \u2014 non confirm\u00e9e",
+        "successText": "Aucun envoi automatique n\u2019est actif. Appelez la r\u00e9ception pour finaliser votre demande.",
+        "errName": "Veuillez saisir votre nom.",
+        "errPhone": "T\u00e9l\u00e9phone invalide.",
+        "errDates": "La date de d\u00e9part doit suivre l\u2019arriv\u00e9e.",
+        "errGuests": "Nombre de voyageurs invalide."
+    },
+    "contact": {
+        "title": "Contact & acc\u00e8s",
+        "intro": "Joignez la r\u00e9ception par t\u00e9l\u00e9phone ou venez nous voir \u00e0 Guelmim.",
+        "address": "Adresse",
+        "phone": "T\u00e9l\u00e9phone",
+        "map": "Carte",
+        "form": "\u00c9crire \u00e0 l\u2019h\u00f4tel",
+        "message": "Message",
+        "send": "Envoyer",
+        "noBackend": "Envoi indisponible : aucun service d\u2019email n\u2019est configur\u00e9. Merci d\u2019appeler la r\u00e9ception.",
+        "errMessage": "Le message est trop court.",
+        "emailMissing": "Adresse email officielle : \u00e0 fournir par l\u2019h\u00f4tel."
+    },
+    "services": {
+        "title": "Services",
+        "note": "Services issus des annuaires publics, \u00e0 confirmer.",
+        "wifi": "Wi-Fi",
+        "ac": "Climatisation",
+        "parking": "Parking",
+        "restaurant": "Restaurant"
+    },
+    "location": {
+        "title": "Au c\u0153ur de Guelmim",
+        "text": "Avenue Mohammed VI, quartier Al Qods. Point de d\u00e9part id\u00e9al vers le sud marocain."
+    },
+    "footer": {
+        "rights": "Tous droits r\u00e9serv\u00e9s",
+        "legal": "Mentions l\u00e9gales",
+        "privacy": "Confidentialit\u00e9",
+        "pending": "Donn\u00e9es \u00e0 valider"
+    },
+    "cta": {
+        "title": "Une question, une date en t\u00eate ?",
+        "text": "La r\u00e9ception vous r\u00e9pond au t\u00e9l\u00e9phone."
+    }
+}
